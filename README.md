@@ -85,3 +85,14 @@ Characters per line: 6.24
 ```
 
 ---
+
+## What to turn in
+If you haven't already, create a `ps4` folder. In your `p4` folder you should have three python scripts: `part1.py`, `part2.py`, and `part3.py`. Remove any other things you might have accidentally put in the folder, then zip the folder up using whatever means you normally use to zip things up (e.g., on a Mac, you can right click and select `Compress`).
+
+Upload the `.zip` file you created to Canvas. 
+
+Note that if you do not submit the files as specified here, there will be a major deduction in your grade for this assignment. Following directions to the letter is a crucial skill for computer programming.
+
+**Don't forget your comments!**
+
+### This problem set is due Friday, February 19, 2021, at 11:59pm EST
