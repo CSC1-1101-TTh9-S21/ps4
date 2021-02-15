@@ -29,7 +29,9 @@ This week we learned about some more interesting things you can do with `range()
 
 3. `main()`: The `main()` function will read in all input from the user for a total of four inputs (one for each argument of the two functions) and will call the above two function. 
 
-Here is an example run of the program.
+Here are some example runs of the program:
+
+<img src="pic1.png">
 
 
 ## Part 2: Guess my letter
@@ -53,6 +55,10 @@ If the user uses all 10 guesses without guessing the correct letter, print out a
  * **You may not use `break`.** 
  * *You will need to think carefully about how to make sure you print out the correct message when the while loop ends!*
  
+Here are some example runs of the program:
+
+<img src="pic1.png">
+
 
 ## Part 3: Working with input and output
 Create a program called `part3.py`. It have just a `main()` function. The `main()`: This function will:
