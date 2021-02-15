@@ -61,7 +61,7 @@ Here are some example runs of the program:
 
 
 ## Part 3: Working with input and output
-Create a program called `part3.py`. It have just a `main()` function. The `main()`: This function will:
+Create a program called `part3.py`. It will have just a `main()` function. The `main()`: This function will:
 
 1. Open a file to read provided as a command line argument. I've provided an example text file in this repository called `testfile.txt`.
 
