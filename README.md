@@ -31,7 +31,7 @@ This week we learned about some more interesting things you can do with `range()
 
 Here are some example runs of the program:
 
-<img src="pic1.png">
+<img src="pic0.png" width=500>
 
 
 ## Part 2: Guess my letter
@@ -57,7 +57,7 @@ If the user uses all 10 guesses without guessing the correct letter, print out a
  
 Here are some example runs of the program:
 
-<img src="pic1.png">
+<img src="pic2.png" width=700>
 
 
 ## Part 3: Working with input and output
