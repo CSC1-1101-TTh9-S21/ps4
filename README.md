@@ -10,7 +10,7 @@ This week we learned about some more interesting things you can do with `range()
 
 1. `divisibleByThree(a, b)`: This function takes two integer arguments, `a` and `b`, and keeps track of the number of integers in between `a` and `b` **inclusive of both `a` and `b`** that are divisible by 3. You'll create a variable to store this number. Then you'll have a `for` loop that goes through each integer between `a` and `b` and adds one to the storage variable for each integer that is divisible by 3. Then you will print out the value of that variable at the end of the function. *Hint: You will have to check to see which of `a` and `b` is bigger in order to set up your `for` loop properly. There are a few ways to do this!*
 
-2. `everyOddNUmber(a, b)`: This function takes two integer arguments, `a` and `b`, and prints out every odd number between `a` and `b` but **not including `a` or `b`** and **without including the modulus operator within the `for` loop**. 
+2. `everyOddNUmber(a, b)`: This function takes two integer arguments, `a` and `b`, and prints out every odd number between `a` and `b` but **not including `a` or `b`** and **without including the modulus operator within the `for` loop**. The numbers must be printed out separated by a space rather than a new line. *Hint: Recall the `end=` option within `print()`.*
 
 3. `main()`: The `main()` function will read in all input from the user for a total of four inputs (one for each argument of the two functions) and will call the above two function. 
 
