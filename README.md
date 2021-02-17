@@ -65,7 +65,7 @@ Create a program called `part3.py`. It will have just a `main()` function. The `
 
 1. Open a file to read provided as a command line argument. I've provided an example text file in this repository called `testfile.txt`.
 
-2. Create **four** variables storing: (1) the number of lines in the file; (2) the number of characters in the file; (3) the number of lines containing the letter "e"; (4) the number of lines containing the line "x".
+2. Create **four** variables storing: (1) the number of lines in the file; (2) the number of characters in the file; (3) the number of lines containing the letter "e"; (4) the number of lines containing the letter "x".
 
 3. Read in the file line by line, and for each line add to the totals stored in the above variables.
 
