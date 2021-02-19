@@ -52,7 +52,7 @@ If the user uses all 10 guesses without guessing the correct letter, print out a
 **Note**
  * You will use a `while` loop to control the flow of interaction. 
  * You should use `<` and `>` to help with alphabetical order. 
- * **You may not use `break`.** 
+ * **You may not use `break` or `return`. The `while` loop condition will be the only way to break out of the loop.** 
  * *You will need to think carefully about how to make sure you print out the correct message when the while loop ends!*
  
 Here are some example runs of the program:
